@@ -14,4 +14,4 @@ def gcd(a, b):
         return gcd(b%a, a)
 
 if __name__ == '__main__':
-    print(gcd(252,105))
+    print(gcd(5,25))
